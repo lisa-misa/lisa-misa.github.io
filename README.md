@@ -1,7 +1,10 @@
 ## Welcome to GitHub Pages
 
-Hallo, hier ist Misa und hier sind meine schänes Bilda, wa!?
+Hallo, hier ist
+ Misa und hier sind meine schänes Bilda, wa!?
 
+hier mein erstes schänes Bild, wa..
+![Familie_Dursley_ teste dich](https://user-images.githubusercontent.com/83177813/116034003-c52d0580-a662-11eb-8fd3-5ce8696b572c.jpg)
 
 You can use the [editor on GitHub](https://github.com/lisa-misa/lisa-misa.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
